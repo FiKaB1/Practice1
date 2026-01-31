@@ -2,12 +2,12 @@
 if 3>2:
     print(1)
 
-#it does not work because space should be more than 4
+#it does not work because space should be more than 1
 '''if 3>2:
 print(2)'''
 #it works
 if 3>2:
-                          print(3)
+ print(3)
 '''error                        
 if 5 > 2:
  print("Five is greater than two!")
@@ -18,3 +18,8 @@ if 5 > 2:
 
 
 '''
+print("Python is fun!")
+
+print("nice ") ;print("cool");print("yeah")
+'''not
+print("nice ") print("cool") print("yeah")'''
